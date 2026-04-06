@@ -61,20 +61,6 @@ Aprendendo, construindo, evoluindo — um commit de cada vez. 🚀
 
 ---
 
-### `> estatísticas`
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=apccarvalho&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9&ring_color=3fb950" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apccarvalho&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=apccarvalho&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950)](https://git.io/streak-stats)
-
-</div>
 
 ---
 

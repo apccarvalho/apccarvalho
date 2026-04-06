@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div align="center">
 
 ```
@@ -42,7 +40,6 @@ Aprendendo, construindo, evoluindo — um commit de cada vez. 🚀
 ### `> foco atual`
 
 ```bash
-$ cat objetivos.txt
 
 ▸ Desenvolvendo lógica de programação com C e C++
 ▸ Explorando backend com Java + Spring Boot
@@ -58,10 +55,9 @@ $ cat objetivos.txt
 | Repositório | Descrição | Stack |
 |---|---|---|
 | [🎵 song-rating](https://github.com/apccarvalho/song-rating) | Aplicação web de classificação de músicas | Java · Spring Boot · HTML |
+| [🏎 racing](https://github.com/apccarvalho/racing) | Jogo inspirado no clássico Brick Game — jogável no browser | HTML · CSS · JavaScript |
 | [⚙ Funcoes](https://github.com/apccarvalho/Funcoes) | Exercícios de Linguagem de Programação | C |
 | [🏆 Desafios-beecrowd](https://github.com/apccarvalho/Desafios-beecrowd) | Soluções de problemas competitivos | C |
-| [🧩 ed1-struct-atv02](https://github.com/apccarvalho/ed1-struct-atv02) | Exercícios de Estrutura de Dados I | C++ |
-| [🔗 ED1-atividade-ponteiros](https://github.com/apccarvalho/ED1-atividade-ponteiros) | Atividade prática com ponteiros | C++ |
 
 ---
 
@@ -87,6 +83,7 @@ $ cat objetivos.txt
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-apccarvalho-3fb950?style=flat-square&logo=github&logoColor=white)](https://github.com/apccarvalho)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andréia_Carvalho-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andréia-carvalho-28272124b)
 
 </div>
 
@@ -96,8 +93,8 @@ $ cat objetivos.txt
 
 ```
 > status: aprendendo todos os dias...
-> next_goal: primeiro estágio na área de TI
-> motto: "código ruim que funciona > código perfeito que não existe"
+> next_goal: construir uma API REST completa com Spring Boot
+> motto: "construindo o futuro, um dia de cada vez"
 ```
 
 *made with 💚 & a lot of coffee*

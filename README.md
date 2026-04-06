@@ -14,8 +14,7 @@
 **Estudante de Análise e Desenvolvimento de Sistemas · IFTM**  
 Aprendendo, construindo, evoluindo — um commit de cada vez. 🚀
 
-[![Profile Views](https://komarev.com/ghpvc/?username=apccarvalho&color=3fb950&style=flat-square&label=visitas)](https://github.com/apccarvalho)
-[![GitHub followers](https://img.shields.io/github/followers/apccarvalho?color=3fb950&style=flat-square&label=seguidores)](https://github.com/apccarvalho?tab=followers)
+[![Instituição](https://img.shields.io/badge/IFTM-Análise_e_Desenvolvimento_de_Sistemas-3fb950?style=flat-square&logo=graduation-cap&logoColor=white)](https://iftm.edu.br)
 
 </div>
 
